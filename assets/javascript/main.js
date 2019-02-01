@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    var displayedButtons = ["Hockey Hits", "Hockey Dekes", "Hockey Celebrations"];
+    var displayedButtons = ["Hockey Hits", "Hockey Fights", "Hockey Celebrations"];
 
     function displayImg(){
 
